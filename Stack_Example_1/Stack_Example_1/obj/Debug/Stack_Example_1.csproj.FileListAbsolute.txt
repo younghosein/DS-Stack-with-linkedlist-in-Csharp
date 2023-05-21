@@ -1,0 +1,14 @@
+C:\Users\RayanGate\source\repos\Stack_Example_1\Stack_Example_1\bin\Debug\Stack_Example_1.exe.config
+C:\Users\RayanGate\source\repos\Stack_Example_1\Stack_Example_1\bin\Debug\Stack_Example_1.exe
+C:\Users\RayanGate\source\repos\Stack_Example_1\Stack_Example_1\bin\Debug\Stack_Example_1.pdb
+C:\Users\RayanGate\source\repos\Stack_Example_1\Stack_Example_1\obj\Debug\Stack_Example_1.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\Stack_Example_1\Stack_Example_1\obj\Debug\Stack_Example_1.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Stack_Example_1\Stack_Example_1\obj\Debug\Stack_Example_1.exe
+C:\Users\RayanGate\source\repos\Stack_Example_1\Stack_Example_1\obj\Debug\Stack_Example_1.pdb
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_1\Stack_Example_1\bin\Debug\Stack_Example_1.exe.config
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_1\Stack_Example_1\bin\Debug\Stack_Example_1.exe
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_1\Stack_Example_1\bin\Debug\Stack_Example_1.pdb
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_1\Stack_Example_1\obj\Debug\Stack_Example_1.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_1\Stack_Example_1\obj\Debug\Stack_Example_1.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_1\Stack_Example_1\obj\Debug\Stack_Example_1.exe
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_1\Stack_Example_1\obj\Debug\Stack_Example_1.pdb
